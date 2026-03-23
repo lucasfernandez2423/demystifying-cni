@@ -8,3 +8,4 @@ Explanation on what a CNI (Container Network Interface) is and how to write it f
 # guard against empty input
 # match the style used in the rest of the module
 # clarify the control flow
+# keep defaults in sync with the manifest
