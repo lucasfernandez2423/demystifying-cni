@@ -14,3 +14,4 @@ Notes and usage details for demystifying-cni.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- clarify the setup steps
